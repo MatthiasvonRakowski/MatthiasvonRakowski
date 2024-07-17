@@ -89,7 +89,7 @@
   <a href="kaiser_fifster" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
-  <a href="matthias.von-rakowski@epitech.eu" target="_blank">
+  <a href="mailto:matthias.von-rakowski@epitech.eu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
