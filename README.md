@@ -19,15 +19,27 @@
 
 ###
 
-<h3 align="left">Current position 🧑‍🔬</h3>
+<h3 align="left">Current position <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32">
+</picture></h3>
 
 ###
 
-<p align="left">Vice president and Chief of Head of AI in PoC an center of innovation ⭐<br><br>President of Heaven of Dice an association of entertainment 🃏</p>
+<p align="left">Vice president and Chief of Head of AI in PoC an center of innovation <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32">
+</picture><br><br>President of Heaven of Dice an association of entertainment <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b2/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b2/512.gif" alt="🎲" width="32" height="32">
+</picture></p>
 
 ###
 
-<h3 align="left">Project 👨‍💻</h3>
+<h3 align="left">Project <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="32" height="32">
+</picture></h3>
 
 ###
 
@@ -59,7 +71,10 @@
 
 ###
 
-<p align="left">And I am also curious  a fast learner, so I can learn pretty quickly any languages!<br><br>You are part of my anonymous watcher now 😱...</p>
+<p align="left">And I am also curious  a fast learner, so I can learn pretty quickly any languages!<br><br>You are part of my anonymous watcher now <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f631/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f631/512.gif" alt="😱" width="32" height="32">
+</picture>...</p>
 
 ###
 
@@ -69,7 +84,13 @@
 
 ###
 
-<p align="left">I am a beginner in open-source 📖, so my stats are just getting higher 📈!</p>
+<p align="left">I am a beginner in open-source <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="32" height="32">
+</picture>, so my stats are just getting higher <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f386/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f386/512.gif" alt="🎆" width="32" height="32">
+</picture>!</p>
 
 ###
 
@@ -102,5 +123,9 @@
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
+
+
+
+Thanks to https://googlefonts.github.io/noto-emoji-animation for the animated emojis!
 
 ###
